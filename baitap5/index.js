@@ -1,8 +1,8 @@
 console.log("hello");
 
 function tongKyso() {
-  let sum = Number(document.getElementById("numBer").value);
-  let num = 0;
+  let sum =document.getElementById("numBer").value;
+  
 
   let ten = 0;
   let unit = 0;
